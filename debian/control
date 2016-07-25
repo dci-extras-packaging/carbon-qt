@@ -1,0 +1,23 @@
+Source: carbon-qt
+Section: unknown
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>=9),
+               extra-cmake-modules,
+               frameworkintegration,
+               libkf5completion-dev,
+               libkf5config-dev,
+               libkf5guiaddons-dev,
+               libkf5i18n-dev,
+               libkf5service-dev,
+               libkf5widgetsaddons-dev,
+               libkf5windowsystem-dev,
+               pkg-kde-tools
+Standards-Version: 3.9.8
+Homepage: https://github.com/ds9-extras/carbon-qt/
+
+Package: carbon-qt
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: carbon-qt theme
+ This package contains the carbon-qt theme

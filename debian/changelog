@@ -1,0 +1,5 @@
+carbon-qt (0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rohan Garg <rohan@kde.org>  Mon, 25 Jul 2016 16:15:32 +0200
