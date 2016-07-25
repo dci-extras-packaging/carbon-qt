@@ -1,0 +1,6 @@
+usr/lib/libcarbonstyle*
+usr/lib/kde4/plugins/styles/
+usr/share/kde4/apps/kstyle/themes/
+usr/lib/kde4/*
+usr/bin/carbon-settings
+usr/bin/carbon-demo
