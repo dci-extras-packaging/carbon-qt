@@ -7,13 +7,13 @@ override_dh_auto_clean:
 	rm -rf $(CURDIR)/build-qt4
 
 override_dh_auto_configure:
-	dh_auto_configure --with kf5
+	dh_auto_configure
 	dh_auto_configure --builddirectory=$(CURDIR)/build-qt4 -- -DCARBON_USE_KDE4=true
 
 override_dh_auto_build:
-	dh_auto_build --with kf5
+	dh_auto_build
 	dh_auto_build --builddirectory=$(CURDIR)/build-qt4
 
 override_dh_auto_install:
-	dh_auto_install --with kf5
+	dh_auto_install
 	dh_auto_install --builddirectory=$(CURDIR)/build-qt4
