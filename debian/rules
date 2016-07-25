@@ -15,5 +15,5 @@ override_dh_auto_build:
 	dh_auto_build --builddirectory=$(CURDIR)/build-qt4
 
 override_dh_auto_install:
-	dh_auto_install --list-missing
-	dh_auto_install --builddirectory=$(CURDIR)/build-qt4 --list-missing
+	dh_auto_install
+	dh_auto_install --builddirectory=$(CURDIR)/build-qt4
