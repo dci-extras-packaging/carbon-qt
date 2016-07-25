@@ -15,6 +15,7 @@ Build-Depends: cmake,
                libkf5widgetsaddons-dev,
                libkf5windowsystem-dev,
                libqt4-dev,
+               libqt5x11extras5-dev,
                libxcb1-dev,
                pkg-config,
                pkg-kde-tools
