@@ -1,8 +1,0 @@
-usr/lib/*/libcarbonstyle5*
-usr/lib/*/libcarbonstyleconfig5*
-usr/lib/*/qt5/plugins/styles/
-usr/share/kstyle/themes/carbon.themerc
-usr/lib/*/qt5/plugins/kstyle_carbon_config.so
-usr/share/kservices5/*
-usr/bin/carbon-settings5
-usr/bin/carbon-demo5
