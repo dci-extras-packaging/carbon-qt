@@ -1,3 +1,9 @@
+carbon-qt (0-1.1) stable; urgency=medium
+
+  * Remove qt4 build, being removed in debian.
+
+ -- Scarlett Moore <sgmoore@kde.org>  Mon, 10 Feb 2020 12:41:04 -0700
+
 carbon-qt (0-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>

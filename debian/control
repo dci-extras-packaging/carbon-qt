@@ -24,6 +24,7 @@ Homepage: https://github.com/ds9-extras/carbon-qt/
 
 Package: carbon-qt
 Architecture: any
+Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: carbon-qt theme
  This package contains the carbon-qt theme
