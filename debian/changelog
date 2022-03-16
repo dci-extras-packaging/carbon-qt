@@ -1,3 +1,9 @@
+carbon-qt (5.2.90) stable; urgency=medium
+
+  * Move to qt5 version as qt4 is no more in Debian.
+
+ -- Scarlett Moore <sgmoore@debian.org>  Wed, 16 Mar 2022 09:03:08 -0700
+
 carbon-qt (0-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
